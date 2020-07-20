@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">学习通</string>
+    <string name="accountHInt">请输入账号</string>
+    <string name="passwordHint">请输入密码</string>
+    <string name="register">注册</string>
+    <string name="login">登录</string>
+    <string name="getQuestions">获取题目</string>
+    <string name="submit">提交</string>
+    <string name="option">%1$s. %2$s</string>
+    <string name="passwordConfirmHint">请确认密码</string>
+</resources>
